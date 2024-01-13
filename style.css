@@ -1,0 +1,15 @@
+/* work sans font link  */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Work+Sans:wght@400;500;600;700&display=swap');
+
+
+*{
+
+margin:0px;
+padding:0px;
+
+
+font-family: 'Work Sans', sans-serif;
+
+
+}
